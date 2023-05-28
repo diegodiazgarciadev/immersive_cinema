@@ -1,0 +1,6 @@
+{
+    "dark_threshold": 30,
+    "light_threshold": 30,
+    "buffer_size": 2,
+    "capture_region": {"top": 200, "left": 200, "width": 640, "height": 480}
+}
