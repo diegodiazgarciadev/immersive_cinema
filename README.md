@@ -7,7 +7,7 @@ ImmersiveCinema is a project designed to enhance your movie watching experience 
 1. **Clone the repository:**
 
     ```
-    git clone https://github.com/username/ImmersiveCinema.git
+    git clone https://github.com/diegodiazgarciadev/ImmersiveCinema.git
     ```
 
 2. **Install dependencies:**
@@ -31,9 +31,9 @@ ImmersiveCinema is a project designed to enhance your movie watching experience 
 
 To run the program, navigate to the `src/` directory and run:
 
-    ```
+    
     python main.py
-    ```
+    
 
 The program will start analyzing your screen and control the IoT devices accordingly.
 
